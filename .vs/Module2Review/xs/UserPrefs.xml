@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8D137B2F-78F1-4B79-B466-0FCADB5D691E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Module2Review PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module2Review/Program.cs">
+    <Files>
+      <File FileName="Module2Review/Program.cs" Line="30" Column="10" />
+      <File FileName="Module2Review/Student.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Module2Review">
+            <Node name="Module2Review" expanded="True">
+              <Node name="Student.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
