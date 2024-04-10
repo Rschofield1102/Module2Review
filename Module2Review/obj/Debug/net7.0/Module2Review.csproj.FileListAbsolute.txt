@@ -1,0 +1,15 @@
+/Users/lee/Desktop/repos/Module2Review/Module2Review/bin/Debug/net7.0/Module2Review
+/Users/lee/Desktop/repos/Module2Review/Module2Review/bin/Debug/net7.0/Module2Review.deps.json
+/Users/lee/Desktop/repos/Module2Review/Module2Review/bin/Debug/net7.0/Module2Review.runtimeconfig.json
+/Users/lee/Desktop/repos/Module2Review/Module2Review/bin/Debug/net7.0/Module2Review.dll
+/Users/lee/Desktop/repos/Module2Review/Module2Review/bin/Debug/net7.0/Module2Review.pdb
+/Users/lee/Desktop/repos/Module2Review/Module2Review/obj/Debug/net7.0/Module2Review.csproj.AssemblyReference.cache
+/Users/lee/Desktop/repos/Module2Review/Module2Review/obj/Debug/net7.0/Module2Review.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lee/Desktop/repos/Module2Review/Module2Review/obj/Debug/net7.0/Module2Review.AssemblyInfoInputs.cache
+/Users/lee/Desktop/repos/Module2Review/Module2Review/obj/Debug/net7.0/Module2Review.AssemblyInfo.cs
+/Users/lee/Desktop/repos/Module2Review/Module2Review/obj/Debug/net7.0/Module2Review.csproj.CoreCompileInputs.cache
+/Users/lee/Desktop/repos/Module2Review/Module2Review/obj/Debug/net7.0/Module2Review.dll
+/Users/lee/Desktop/repos/Module2Review/Module2Review/obj/Debug/net7.0/refint/Module2Review.dll
+/Users/lee/Desktop/repos/Module2Review/Module2Review/obj/Debug/net7.0/Module2Review.pdb
+/Users/lee/Desktop/repos/Module2Review/Module2Review/obj/Debug/net7.0/Module2Review.genruntimeconfig.cache
+/Users/lee/Desktop/repos/Module2Review/Module2Review/obj/Debug/net7.0/ref/Module2Review.dll
